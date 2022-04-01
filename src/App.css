@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.nom {
+  color: blue;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-align: center;
+}
+.profil {
+  border-radius: 100px;
+  margin-left: 350px;
+}
+.adresse {
+  text-align: center;
+  color: red;
+}
